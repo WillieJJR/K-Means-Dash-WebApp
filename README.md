@@ -21,4 +21,4 @@ Once all of the steps mentioned above have been executed, the datatable in the '
 
 ### **Caveat**
 
-This is still a Work-in-progress - the aesthetics will be updated at a later time
+This is still a Work-in-progress - the aesthetics will be updated at a later time.
