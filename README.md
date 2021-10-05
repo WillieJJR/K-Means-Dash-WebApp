@@ -18,9 +18,13 @@ This is a tool that is able to ingest CSV, XLS, or TXT data and provide a automa
   3. Once navigated to the 'Kmeans Prediction' tab, you can select the amount of clusters you'd like to segment your data by
 
 
+
 ### **Output**
 
 Once all of the steps mentioned above have been executed, the datatable in the 'Kmeans Prediction' tab should update with the original data prior to standardization, with an additional column which shows the cluster each datapoint has been assigned. Additionally, there is a chart, which populates that visualizes the segmentation of your data in 2D space.
+
+  ![alt text](https://github.com/WillieJJR/K-Means-Dash-WebApp/blob/main/Screenshot%202021-10-04%20201938.png)
+  ![alt text](https://github.com/WillieJJR/K-Means-Dash-WebApp/blob/main/Screenshot%202021-10-04%20202002.png)
 
 
 ### **Caveat**
