@@ -29,11 +29,11 @@ Once all of the steps mentioned above have been executed, the datatable in the '
 
 ### **Caveat**
 
-This is still a Work-in-progress - the aesthetics will be updated at a later time.
+This is still a Work-In-Progress - the aesthetics will be updated at a later time.
 
 
 ### **Sample Data to try** 
 
 Sample data to try can be found at https://www.dropbox.com/s/uzkv79ecxccz36h/114_congress.csv?dl=0
 
-This data has details sorrounding congress votes for particular Legislation. Since the data goes through pre-processing, the algorithm isn't using Political Party as an input; see how well it clusters the senators into their respective parties by only using votes.
+This data has details sorrounding congress votes for particular Legislation. Since the data goes through pre-processing, the algorithm isn't using Political Party as an input; see how well it clusters the senators into their respective parties by only using anonymized votes.
