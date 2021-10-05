@@ -12,8 +12,10 @@ This is a tool that is able to ingest CSV, XLS, or TXT data and provide a automa
   1. Browse for a file (CSV, XLS, or TXT) and import the data (the data is displayed pre-standardized by utilizing Min-Max Scaling)
 
   ![alt text](https://github.com/WillieJJR/K-Means-Dash-WebApp/blob/main/Screenshot%202021-10-04%20201739.png)
-  3. Once navigated to the 'Kmeans Exploration' tab, you can input a range of chosen clusters to examine the optimal amount of clusters, which is visualized by an Elbow Plot
-  4. Once navigated to the 'Kmeans Prediction' tab, you can select the amount of clusters you'd like to segment your data by
+  2. Once navigated to the 'Kmeans Exploration' tab, you can input a range of chosen clusters to examine the optimal amount of clusters, which is visualized by an Elbow Plot
+
+  ![alt text](https://github.com/WillieJJR/K-Means-Dash-WebApp/blob/main/Screenshot%202021-10-04%20201808.png)
+  3. Once navigated to the 'Kmeans Prediction' tab, you can select the amount of clusters you'd like to segment your data by
 
 
 ### **Output**
